@@ -46,4 +46,5 @@ print(f"BIN1: {bin1_base64}\n\nBIN2: {bin2_base64}")
 save_base64_image(bin1_base64, './images/bin1_image.png')
 save_base64_image(bin2_base64, './images/bin2_image.png')
 
+
 print("Images saved successfully.")
